@@ -73,4 +73,6 @@ dataset :
   <a href="#"><img   src="assets/DIS_img_3.png"></a>
 </p>
 
+## Kesimpulan
+masih diperlukan beberapa pengembangan karena model masih sulit memprediksi jika backgroundnya bukan putih polos, baju putih seperti pada dataset sehingga sebaiknya gambar dihilangkan terlebih dahulu kemudian diproses
 
