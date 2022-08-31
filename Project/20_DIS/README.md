@@ -1,6 +1,11 @@
 # Project Image Recognition : Pengenalan Bahasa Isyarat Indonesia
 ___
 
+
+<p align="center">
+  <a href="#"><img width="500" height="300" src="assets/DIS_img_4.png"></a>
+</p>
+
 ## Problem Statement
 
 Orang dengan gangguan pendengaran umumnya memiliki kesamaan dengan anak-anak,
@@ -18,11 +23,19 @@ memungkinkan orang dengan gangguan pendengaran berkomunikasi dalam dua arah.
 
 ## Deskripsi Dataset
 
+<p align="center">
+  <a href="#"><img   src="assets/DIS_img_2.png"></a>
+</p>
+
 Dari A sampai Z, file data berisi gambar skala 1:1 bahasa isyarat Indonesia. Gambar diambil
 dengan tiga latar belakang yang berbeda: kemeja putih polos, dinding putih, dan kemeja putih
 bermotif titik. Bayangan diambil dari depan, dengan jarak kurang lebih 70 cm antara benda dan
 lensa. Selama pemotretan, empat gambar diambil untuk setiap latar belakang, dengan total 12
 gambar untuk setiap alfabet. Jumlah bayangan yang diperoleh dari huruf A sampai Z adalah
+
+<p align="center">
+  <a href="#"><img   src="assets/DIS_img_1.png"></a>
+</p>
 
 dataset : 
 - [link_1](https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo)
@@ -40,5 +53,11 @@ dataset :
 4. Evaluasi model
 5. Prediksi
 6. Deployment
+
+## Deployment 
+
+<p align="center">
+  <a href="#"><img   src="assets/DIS_img_3.png"></a>
+</p>
 
 
