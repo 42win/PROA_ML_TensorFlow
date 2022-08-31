@@ -24,9 +24,9 @@ bermotif titik. Bayangan diambil dari depan, dengan jarak kurang lebih 70 cm ant
 lensa. Selama pemotretan, empat gambar diambil untuk setiap latar belakang, dengan total 12
 gambar untuk setiap alfabet. Jumlah bayangan yang diperoleh dari huruf A sampai Z adalah
 
-- dataset : 
-   - [link_1](https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo)
-   - [link_2](https://drive.google.com/file/d/1mlir8h4T_FNX7ep5iHckAlJ8K6-hhE1N/view?usp=sharing)
+dataset : 
+- [link_1](https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo)
+- [link_2](https://drive.google.com/file/d/1mlir8h4T_FNX7ep5iHckAlJ8K6-hhE1N/view?usp=sharing)
 
 ## General Stage
 1. Image Augmentation
