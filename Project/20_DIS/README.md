@@ -41,6 +41,19 @@ dataset :
 - [link_1](https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo)
 - [link_2](https://drive.google.com/file/d/1mlir8h4T_FNX7ep5iHckAlJ8K6-hhE1N/view?usp=sharing)
 
+## Code Lab
+1. [Codelab1](1_codeLab_BISINDO_1.ipynb)
+    - simple augmentation
+    - accuracy 50% underfitting
+2. [Codelab2](1_codeLab_BISINDO_2.ipynb)
+    - hard augmentation to increase dataset up to 2.080
+    - accuracy 71% overfitting
+3. [Codelab3](1_codeLab_BISINDO_3.ipynb)
+    - hard augmentation to increase dataset up to 364.000
+    - but can't handle it too much
+    - so it is decreased menjadi 6.500 dataset
+    - accuracy 99% 
+
 ## General Stage
 1. Image Augmentation
    - Tingkat Kecerahan (Brightness)
